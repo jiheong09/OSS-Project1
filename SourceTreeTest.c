@@ -6,5 +6,8 @@ int main() {
     #11111
     printf("main add\n");
 
+    for (int i = 0; i < 10; i++) {
+        printf("Test branch\n");
+    }
     return 0;
 }
